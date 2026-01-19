@@ -1,4 +1,4 @@
-PROGNM = aurutils-extras
+PROGNM ?= aurutils-extras
 PREFIX ?= /usr
 BINDIR ?= $(PREFIX)/bin
 SHRDIR ?= $(PREFIX)/share
